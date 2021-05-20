@@ -1,0 +1,5 @@
+ivanov 25000
+petrov 10000
+sidorov 30000
+saharov 17000
+pertcev 21000
