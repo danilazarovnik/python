@@ -1,0 +1,5 @@
+n = input("Введите число n ")
+z = int(n)
+x = int(n + n)
+c = int(n + n + n)
+print(z + x + c)
